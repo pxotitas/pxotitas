@@ -1,7 +1,7 @@
 <div align="left">
   <img align="left" width="128" src="https://art.pixilart.com/thumb/sr2f8af90549eaws3.png" alt="Pixel art characters" />
 
-  ### hey, i'm chloe! :3
+  ### hii, i'm chloe! 
 
   Software developer, Minecraft modder and creative tinkerer.
 
