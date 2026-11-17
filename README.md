@@ -1,108 +1,56 @@
-<div align="center">
+<div align="left">
+  <img align="left" width="128" src="https://art.pixilart.com/thumb/sr2f8af90549eaws3.png" alt="Pixel art characters" />
 
-<img src="./assets/profile-banner.svg" alt="pxotitas — a little pixel-art night garden" width="98%" />
+  ### hey, i'm chloe! :3
+
+  Software developer, Minecraft modder and creative tinkerer.
+
+  I build mods, tools and little projects at **EdonMe Studios**.
+  <br clear="left" />
+</div>
 
 <br>
 
-<img src="https://art.pixilart.com/thumb/sr2f8af90549eaws3.png" alt="Pixel art character" width="150" />
+### Find me around
 
-<br><br>
+[![Website](https://img.shields.io/badge/website-183b2b?style=flat-square&logoColor=white)](https://pxdritz1.github.io)
+[![Modrinth](https://img.shields.io/badge/Modrinth-183b2b?style=flat-square&logo=modrinth&logoColor=7ee787)](https://modrinth.com/user/pxotitas)
+[![Discord](https://img.shields.io/badge/Discord-183b2b?style=flat-square&logo=discord&logoColor=7ee787)](https://discord.gg/rX8jE45kgP)
+[![Ko-fi](https://img.shields.io/badge/Ko--fi-183b2b?style=flat-square&logo=ko-fi&logoColor=7ee787)](https://ko-fi.com/A6A42663NV)
 
-[![Ko-fi](https://ko-fi.com/img/githubbutton_sm.svg)](https://ko-fi.com/A6A42663NV)
+### Technologies
 
-<br>
+<img src="https://skillicons.dev/icons?i=html,css,js,ts,python,java,kotlin,lua,cs,c,cpp,rust,go&theme=dark" alt="HTML, CSS, JavaScript, TypeScript, Python, Java, Kotlin, Lua, C sharp, C, C++, Rust and Go" />
 
-minecraft modder · software engineer · **coo, edonme studios**
+![SQL](https://img.shields.io/badge/SQL-183b2b?style=flat-square)
+![Fabric](https://img.shields.io/badge/Fabric-183b2b?style=flat-square)
 
-</div>
+### Tools & environment
 
----
+![Zed](https://img.shields.io/badge/Zed-183b2b?style=flat-square)
+![Git](https://img.shields.io/badge/Git-183b2b?style=flat-square&logo=git&logoColor=7ee787)
+![Docker](https://img.shields.io/badge/Docker-183b2b?style=flat-square&logo=docker&logoColor=7ee787)
+![Godot](https://img.shields.io/badge/Godot-183b2b?style=flat-square&logo=godotengine&logoColor=7ee787)
+![LibreSprite](https://img.shields.io/badge/LibreSprite-183b2b?style=flat-square)
+![Krita](https://img.shields.io/badge/Krita-183b2b?style=flat-square&logo=krita&logoColor=7ee787)
+![Codex](https://img.shields.io/badge/Codex-183b2b?style=flat-square)
+![Figma](https://img.shields.io/badge/Figma-183b2b?style=flat-square&logo=figma&logoColor=7ee787)
+![Obsidian](https://img.shields.io/badge/Obsidian-183b2b?style=flat-square&logo=obsidian&logoColor=7ee787)
 
-<div align="center">
+![Arch Linux](https://img.shields.io/badge/Arch_Linux-183b2b?style=flat-square&logo=archlinux&logoColor=7ee787)
+![Niri](https://img.shields.io/badge/Niri-183b2b?style=flat-square)
 
-`$ cat about.md`
+### Selected projects
 
-</div>
+- [Velatura](https://github.com/pxotitas/velatura) — a desktop shell built around a clean, modern workflow.
+- [Chloe's Design Hub](https://github.com/pxotitas/chloe-s-design-hub) — my open-source design workspace.
+- [BrainShake](https://github.com/pxotitas/BrainShake) — experiments and ideas in progress.
 
-hii :3 i'm chloe!! (px)
+<details>
+  <summary><b>GitHub stats</b></summary>
+  <br>
+  <img height="150" src="https://github-readme-stats.vercel.app/api?username=pxotitas&show_icons=true&hide_border=true&bg_color=0d1117&title_color=7ee787&icon_color=7ee787&text_color=c9d1d9" alt="GitHub statistics" />
+  <img height="150" src="https://github-readme-stats.vercel.app/api/top-langs/?username=pxotitas&layout=compact&hide_border=true&bg_color=0d1117&title_color=7ee787&text_color=c9d1d9" alt="Most used languages" />
+</details>
 
-- creating mods, datapacks, and tools for minecraft at edonme studios.
-- building software and side projects across different languages.
-- professional yapper and nerd.
-- currently making things for fabric — always tinkering with a new idea.
-- C1 advanced english.
-
-<div align="center">
-
-`$ cat system.md`
-
-<img src="https://img.shields.io/badge/ARCH_LINUX-161b22?style=for-the-badge&logo=archlinux&logoColor=7EE787" alt="Arch Linux" />
-&nbsp;
-<img src="https://img.shields.io/badge/NIRI-161b22?style=for-the-badge&logoColor=7EE787" alt="Niri window manager" />
-
-<br><br>
-
-`$ cat tools.md`
-
-<img src="https://img.shields.io/badge/ZED-161b22?style=for-the-badge&logo=zedindustries&logoColor=7EE787" alt="Zed" />
-<img src="https://img.shields.io/badge/GIT-161b22?style=for-the-badge&logo=git&logoColor=7EE787" alt="Git" />
-<img src="https://img.shields.io/badge/DOCKER-161b22?style=for-the-badge&logo=docker&logoColor=7EE787" alt="Docker" />
-<img src="https://img.shields.io/badge/GODOT-161b22?style=for-the-badge&logo=godotengine&logoColor=7EE787" alt="Godot" />
-<img src="https://img.shields.io/badge/LIBRESPRITE-161b22?style=for-the-badge&logoColor=7EE787" alt="LibreSprite" />
-<img src="https://img.shields.io/badge/KRITA-161b22?style=for-the-badge&logo=krita&logoColor=7EE787" alt="Krita" />
-<img src="https://img.shields.io/badge/CODEX-161b22?style=for-the-badge&logo=openai&logoColor=7EE787" alt="Codex" />
-<img src="https://img.shields.io/badge/FIGMA-161b22?style=for-the-badge&logo=figma&logoColor=7EE787" alt="Figma" />
-<img src="https://img.shields.io/badge/OBSIDIAN-161b22?style=for-the-badge&logo=obsidian&logoColor=7EE787" alt="Obsidian" />
-
-<br><br>
-
-`$ cat stack.md`
-
-<img src="https://skillicons.dev/icons?i=html,css,kotlin,java,lua,cs,c,cpp,rust,python,js,ts,go&theme=dark" alt="HTML, CSS, Kotlin, Java, Lua, C sharp, C, C++, Rust, Python, JavaScript, TypeScript and Go" />
-
-<br>
-
-<img src="https://img.shields.io/badge/SQL-161b22?style=for-the-badge&logoColor=7EE787" alt="SQL" />
-&nbsp;
-<img src="https://img.shields.io/badge/FABRIC-161b22?style=for-the-badge&logoColor=7EE787" alt="Fabric modding" />
-
-<br><br>
-
-`$ cat focus.md`
-
-**full stack development** · **game development** · **minecraft modding**
-
-</div>
-
----
-
-<div align="center">
-
-`$ cat stats.md`
-
-<img width="98%" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=pxotitas&theme=github_dark" alt="Profile details" />
-
-<img width="49%" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=pxotitas&theme=github_dark" alt="GitHub stats" />
-<img width="49%" src="https://github-readme-streak-stats.demolab.com?user=pxotitas&theme=github-dark-blue&hide_border=true&background=0D1117&ring=7EE787&fire=7EE787&currStreakLabel=7EE787" alt="Contribution streak" />
-
-<img width="49%" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=pxotitas&theme=github_dark" alt="Repositories by language" />
-<img width="49%" src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=pxotitas&theme=github_dark" alt="Most committed languages" />
-
-<img width="49%" src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=pxotitas&theme=github_dark&utcOffset=-4" alt="Productive time (UTC-4)" />
-<img width="49%" src="https://github-profile-summary-cards.vercel.app/api/cards/commits-per-day?username=pxotitas&theme=github_dark" alt="Commits per day" />
-
-<br><br>
-
-`$ cat links.md`
-
-| platform | link |
-|:--:|:--:|
-| website | [pxdritz1.github.io](https://pxdritz1.github.io) |
-| modrinth | [modrinth.com/user/pxotitas](https://modrinth.com/user/pxotitas) |
-| discord | [discord.gg/rX8jE45kgP](https://discord.gg/rX8jE45kgP) |
-
-<br>
-
-<img src="https://komarev.com/ghpvc/?username=pxotitas&color=238636&style=flat-square&label=profile+views" alt="Profile views" />
-
-</div>
+<sub>powered by curiosity, too many tabs and late-night ideas.</sub>
