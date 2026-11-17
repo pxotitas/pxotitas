@@ -30,7 +30,6 @@
 ![Godot](https://img.shields.io/badge/Godot-183b2b?style=flat-square&logo=godotengine&logoColor=7ee787)
 ![LibreSprite](https://img.shields.io/badge/LibreSprite-183b2b?style=flat-square)
 ![Krita](https://img.shields.io/badge/Krita-183b2b?style=flat-square&logo=krita&logoColor=7ee787)
-![Codex](https://img.shields.io/badge/Codex-183b2b?style=flat-square&logo=openai&logoColor=7ee787)
 ![Figma](https://img.shields.io/badge/Figma-183b2b?style=flat-square&logo=figma&logoColor=7ee787)
 ![Obsidian](https://img.shields.io/badge/Obsidian-183b2b?style=flat-square&logo=obsidian&logoColor=7ee787)
 
