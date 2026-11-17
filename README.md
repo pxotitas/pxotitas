@@ -24,7 +24,7 @@
 
 ### Tools & environment
 
-![Zed](https://img.shields.io/badge/Zed-183b2b?style=flat-square)
+![Zed](https://img.shields.io/badge/Zed-183b2b?style=flat-square&logo=zedindustries&logoColor=7ee787)
 ![Git](https://img.shields.io/badge/Git-183b2b?style=flat-square&logo=git&logoColor=7ee787)
 ![Docker](https://img.shields.io/badge/Docker-183b2b?style=flat-square&logo=docker&logoColor=7ee787)
 ![Godot](https://img.shields.io/badge/Godot-183b2b?style=flat-square&logo=godotengine&logoColor=7ee787)
