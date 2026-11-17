@@ -22,8 +22,7 @@
 
 <img src="https://skillicons.dev/icons?i=html,css,js,ts,python,java,kotlin,lua,cs,c,cpp,rust,go&theme=dark" alt="HTML, CSS, JavaScript, TypeScript, Python, Java, Kotlin, Lua, C sharp, C, C++, Rust and Go" />
 
-![SQL](https://img.shields.io/badge/SQL-183b2b?style=flat-square)
-![Fabric](https://img.shields.io/badge/Fabric-183b2b?style=flat-square)
+![SQL](https://img.shields.io/badge/SQL-183b2b?style=flat-square&logo=sqlite&logoColor=7ee787)
 
 ### Tools & environment
 
@@ -38,7 +37,7 @@
 ![Obsidian](https://img.shields.io/badge/Obsidian-183b2b?style=flat-square&logo=obsidian&logoColor=7ee787)
 
 ![Arch Linux](https://img.shields.io/badge/Arch_Linux-183b2b?style=flat-square&logo=archlinux&logoColor=7ee787)
-![Niri](https://img.shields.io/badge/Niri-183b2b?style=flat-square)
+![Niri](https://img.shields.io/badge/Niri-183b2b?style=flat-square&logo=niri&logoColor=7ee787)
 
 ### Selected projects
 
@@ -46,11 +45,11 @@
 - [Chloe's Design Hub](https://github.com/pxotitas/chloe-s-design-hub) — my open-source design workspace.
 - [BrainShake](https://github.com/pxotitas/BrainShake) — experiments and ideas in progress.
 
-<details>
-  <summary><b>GitHub stats</b></summary>
-  <br>
-  <img height="150" src="https://github-readme-stats.vercel.app/api?username=pxotitas&show_icons=true&hide_border=true&bg_color=0d1117&title_color=7ee787&icon_color=7ee787&text_color=c9d1d9" alt="GitHub statistics" />
-  <img height="150" src="https://github-readme-stats.vercel.app/api/top-langs/?username=pxotitas&layout=compact&hide_border=true&bg_color=0d1117&title_color=7ee787&text_color=c9d1d9" alt="Most used languages" />
-</details>
+<h3>GitHub stats</h3>
+
+<img width="98%" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=pxotitas&theme=github_dark" alt="GitHub profile details" />
+
+<img width="49%" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=pxotitas&theme=github_dark" alt="GitHub statistics" />
+<img width="49%" src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=pxotitas&theme=github_dark" alt="Most used languages" />
 
 <sub>powered by curiosity, too many tabs and late-night ideas.</sub>
