@@ -104,8 +104,6 @@ $ cat links.md
 
 <br>
 
-moved by tea and creativity :3
-
 <img src="https://komarev.com/ghpvc/?username=pxdritz1&color=facb48&style=flat-square&label=profile+views" alt="Profile Views" />
 
 
