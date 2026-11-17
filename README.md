@@ -22,8 +22,6 @@
 
 <img src="https://skillicons.dev/icons?i=html,css,js,ts,python,java,kotlin,lua,cs,c,cpp,rust,go&theme=dark" alt="HTML, CSS, JavaScript, TypeScript, Python, Java, Kotlin, Lua, C sharp, C, C++, Rust and Go" />
 
-![SQL](https://img.shields.io/badge/SQL-183b2b?style=flat-square&logo=sqlite&logoColor=7ee787)
-
 ### Tools & environment
 
 ![Zed](https://img.shields.io/badge/Zed-183b2b?style=flat-square)
