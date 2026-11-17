@@ -13,7 +13,7 @@
 
 ### Find me around
 
-[![Website](https://img.shields.io/badge/website-183b2b?style=flat-square&logoColor=white)](https://pxdritz1.github.io)
+[![Website](https://img.shields.io/badge/website-183b2b?style=flat-square&logo=saturn&logoColor=7ee787)](https://pxdritz1.github.io)
 [![Modrinth](https://img.shields.io/badge/Modrinth-183b2b?style=flat-square&logo=modrinth&logoColor=7ee787)](https://modrinth.com/user/pxotitas)
 [![Discord](https://img.shields.io/badge/Discord-183b2b?style=flat-square&logo=discord&logoColor=7ee787)](https://discord.gg/rX8jE45kgP)
 [![Ko-fi](https://img.shields.io/badge/Ko--fi-183b2b?style=flat-square&logo=ko-fi&logoColor=7ee787)](https://ko-fi.com/A6A42663NV)
