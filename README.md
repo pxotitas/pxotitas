@@ -28,7 +28,6 @@
 ![Git](https://img.shields.io/badge/Git-183b2b?style=flat-square&logo=git&logoColor=7ee787)
 ![Docker](https://img.shields.io/badge/Docker-183b2b?style=flat-square&logo=docker&logoColor=7ee787)
 ![Godot](https://img.shields.io/badge/Godot-183b2b?style=flat-square&logo=godotengine&logoColor=7ee787)
-![LibreSprite](https://img.shields.io/badge/LibreSprite-183b2b?style=flat-square)
 ![Krita](https://img.shields.io/badge/Krita-183b2b?style=flat-square&logo=krita&logoColor=7ee787)
 ![Figma](https://img.shields.io/badge/Figma-183b2b?style=flat-square&logo=figma&logoColor=7ee787)
 ![Obsidian](https://img.shields.io/badge/Obsidian-183b2b?style=flat-square&logo=obsidian&logoColor=7ee787)
